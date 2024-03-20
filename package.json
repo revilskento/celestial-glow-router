@@ -1,0 +1,24 @@
+{
+  "name": "celestial-glow-router",
+  "version": "2.0.1",
+  "description": "A router library for celestial glow.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/revilskento/celestial-glow-router"
+  },
+  "keywords": [
+    "router",
+    "celestial",
+    "glow"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path-to-regexp": "^6.2.0",
+    "query-string": "^7.0.0"
+  }
+}
